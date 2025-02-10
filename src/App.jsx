@@ -4,7 +4,7 @@ import Inicio from "./pages/inicio/inicio";
 import Filmes from "./pages/filmes/filmes";
 import Series from "./pages/series/series";
 import HQs from "./pages/hqs/hqs";
-import "./App.scss";
+import './src/App.scss';
 
 export default function App() {
   return (
